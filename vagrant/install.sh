@@ -1,3 +1,6 @@
+#based on this gist for Vagrant provision script for php, Apache, MySQL, phpMyAdmin, Laravel, and javascript helpers
+#https://gist.github.com/rrosiek/8190550
+
 DBHOST=localhost
 DBNAME=vtiger
 DBUSER=vtiger
